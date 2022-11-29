@@ -1,3 +1,3 @@
-System.Console.WriteLine("HEllO WORLD");
-System.Console.WriteLine("HEllO WORLD");
-System.Console.WriteLine("HEllO WORLD");
+System.Console.WriteLine("MOI");
+System.Console.WriteLine("MOI");
+System.Console.WriteLine("MOI");
